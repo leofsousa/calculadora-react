@@ -36,7 +36,7 @@ As principais ferramentas usadas no projeto:
 
 ```bash
 # Clone este repositório
-git clone https://leofsousa.github.io/calculadora-react/
+git clone https://github.com/leofsousa/calculadora-react.git
 
 # Acesse a pasta do projeto
 cd calculadora-react
@@ -46,3 +46,13 @@ npm install
 
 # Execute o projeto
 npm start
+
+## 🔮 Melhorias Futuras
+- [ ] Implementar suporte ao teclado
+- [ ] Adicionar operações avançadas (%, √, potência)
+- [ ] Criar tema escuro
+
+
+## 📬 Contato
+- LinkedIn: www.linkedin.com/in/leonardo-sousa-71b32825a
+- Email: leofsousa98@gmail.com
