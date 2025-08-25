@@ -7,7 +7,7 @@ Este projeto foi criado como parte do meu portfólio para demonstrar habilidades
 
 ## 📱 Demonstração
 
-🔗 [Acesse a calculadora online](https://seu-usuario.github.io/calculadora-react)  
+🔗 [Acesse a calculadora online](https://leofsousa.github.io/calculadora-react/)  
 
 ![Screenshot da calculadora](./assets/screenshot.png)
 
@@ -36,7 +36,7 @@ As principais ferramentas usadas no projeto:
 
 ```bash
 # Clone este repositório
-git clone https://github.com/leofsousa/calculadora-react.git
+git clone https://leofsousa.github.io/calculadora-react/
 
 # Acesse a pasta do projeto
 cd calculadora-react
