@@ -13,6 +13,7 @@ justify-content: center;
 export const Content = styled.div`
     background-color: #FFFFFF;
     width: 60%;
+    max-width: 350px;
 `
 
 export const Row = styled.div`
