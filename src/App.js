@@ -1,8 +1,14 @@
-function App() {
+import { Container , Content } from './styles';
+import Input from './components/input';
+import Button from './components/Button';
+
+const App = () => {
   return (
-    <div className="App">
-      
-    </div>
+    <Container>
+     <Content>
+      <Input />
+     </Content>
+    </Container>
   );
 }
 
